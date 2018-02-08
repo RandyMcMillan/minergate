@@ -1,2 +1,3 @@
 ./xmr-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
 ./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
+./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xdn
