@@ -1,2 +1,2 @@
-./minergate-cli -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
-./minergate-cli -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
+./xmr-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
+./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
