@@ -1,3 +1,10 @@
+
+
+Create account here:
+[https://minergate.com/a/d21fcc27b79e36856d334064](https://minergate.com/a/d21fcc27b79e36856d334064)
+
+
+
 ./xmr-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
 ./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
 ./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xdn
