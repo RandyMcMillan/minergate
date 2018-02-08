@@ -22,7 +22,4 @@ $ ./start_xmr.bat
 </code>
 
 CRON JOB CONFIG:
-
-<code>
-
-</code>
+plist files are included as a reference for automation.
