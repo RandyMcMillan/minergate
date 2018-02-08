@@ -4,8 +4,8 @@ Create account here: [minergate.com/a/d21fcc27b79e36856d334064](https://minergat
 
 <code>
 $ git clone https://github.com/RandyMcMillan/minergate.git
+$ cd minergate
+$ ./xmr-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
+$ ./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
+$ ./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xdn
 </code>
-
-./xmr-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xmr
-./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --bcn
-./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xdn
