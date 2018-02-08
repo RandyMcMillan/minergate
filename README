@@ -12,6 +12,7 @@ $ ./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2 --xdn
 </code>
 
 OR
+
 <code>
 $ cd minergate
 $ chmod +x *.bat
