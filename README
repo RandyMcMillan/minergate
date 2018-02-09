@@ -1,5 +1,3 @@
-
-
 Create account here: [minergate.com/a/d21fcc27b79e36856d334064](https://minergate.com/a/d21fcc27b79e36856d334064)
 
 <code>
@@ -28,3 +26,8 @@ Install *-helper and /Frameworks into /bin
 If you fond this helpful please include
 ./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn
 in your configuration. Thanks -RM 
+
+P.S. I strongly recommend you install a fan control.
+<code>
+brew cask install macs-fan-control
+</code>
