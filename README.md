@@ -13,11 +13,9 @@ $ ./bcn-helper -user randy.lee.mcmillan@gmail.com --bcn 2
 
 $ ./xdn-helper -user randy.lee.mcmillan@gmail.com --bcn 2  
 
-</code>  
 
 OR  
 
-<code>  
 $ cd minergate  
 
 $ chmod +x *.bat  
