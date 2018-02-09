@@ -29,5 +29,5 @@ in your configuration. Thanks -RM
 
 P.S. I strongly recommend you install a fan control.
 <code>
-brew cask install macs-fan-control
+$ brew cask install macs-fan-control
 </code>
